@@ -48,4 +48,4 @@ Magic bytes are the first few bytes at the beginning of a file that indicate its
 ### Example
 
 ```bash
-python sigChange.py example.asp png
+python sigChange.py path/to/example.asp png
